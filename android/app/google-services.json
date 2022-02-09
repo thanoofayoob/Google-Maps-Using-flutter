@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "70026834199",
+    "project_id": "hip-polymer-340617",
+    "storage_bucket": "hip-polymer-340617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70026834199:android:5aeb689f5e0ac7b9e40752",
+        "android_client_info": {
+          "package_name": "com.example.new_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70026834199-e04fv3sb99b727vjfl48cgear3e2ca3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvl5kvca8d5H_wXzc2k_ucxHaixzOzlEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70026834199-e04fv3sb99b727vjfl48cgear3e2ca3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
